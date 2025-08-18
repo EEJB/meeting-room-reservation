@@ -4,12 +4,12 @@ This is a sceenshot of my project.
 
 ## Screenshots
 
-(./screenshots/ojt1.png)
-(./screenshots/ojt2.png)
-(./screenshots/ojt3.png)
-(./screenshots/ojt4.png)
-(./screenshots/ojt5.png)
-(./screenshots/ojt6.png)
-(./screenshots/ojt7.png)
-(./screenshots/ojt8.png)
-(./screenshots/ojt9.png)
+(./screenshot/ojt1.png)
+(./screenshot/ojt2.png)
+(./screenshot/ojt3.png)
+(./screenshot/ojt4.png)
+(./screenshot/ojt5.png)
+(./screenshot/ojt6.png)
+(./screenshot/ojt7.png)
+(./screenshot/ojt8.png)
+(./screenshot/ojt9.png)
